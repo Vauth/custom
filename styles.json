@@ -22,5 +22,11 @@
         "style":101,
         "image":"https://i.ibb.co/S3jjpGS/24b73022f55c.jpg",
         "prompt":"{PROMPT}, the last attempt, short night moment, everything breaks into small pieces, end of all things, bokeh, timeless eternity, complementary colors, Depicted in an Eerie oppressive feeling by Greg Rutkowski, James Earley, Mark Metcalfe, Darek Zabrocki, Gilles Beloeil, Neil Blevins, Anne Stokes, surrealist style, fine art, fine brush strokes, detail oriented, over detail, scary, oppressive, a masterpiece, old work of art, oil on canvas, perfect composition, Art of Illusion 3D shading, hyperdetailed, ZBrush, cel-shaded, golden ratio"
+    },
+    "Abstract Fluid V3":{
+        "id":2004,
+        "style":101,
+        "image":"https://i.ibb.co/TWL5p0q/be8bfd04a3d7.jpg",
+        "prompt":"({PROMPT}), 4D abstract fluid artwork rendered in unreal engine 5, 4k, super highly detailed ribbons of color floating and contorting, in the frame, amazing composition, non newtonian fluid dynamics, dynamic shape of subject, 8k render, Octane render, explosive colors, Sharp details, 3D -s 250 -v 5"
     }
 }
