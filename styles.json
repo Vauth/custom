@@ -28,5 +28,11 @@
         "style":101,
         "image":"https://i.ibb.co/TWL5p0q/be8bfd04a3d7.jpg",
         "prompt":"({PROMPT}), 4D abstract fluid artwork rendered in unreal engine 5, 4K, super highly detailed ribbons of color floating and contorting, in the frame, amazing composition, non newtonian fluid dynamics, dynamic shape of subject, 8k render, Octane render, explosive colors, Sharp details, 3D -s 250 -v 5"
+    },
+    "Steampunk V3":{
+        "id":2005,
+        "style":101,
+        "image":"https://i.ibb.co/ngYHRpc/9ba8e61e6aab.jpg",
+        "prompt":"hyperrealistic neo - rococo {PROMPT}. highly detailed digital art masterpiece, smooth cam de leon eric zener dramatic pearlescent soft light,backgroud black, ground angle hd 8 k, sharp focus"
     }
 }
