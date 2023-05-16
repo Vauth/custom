@@ -27,7 +27,7 @@
         "id":2004,
         "style":101,
         "image":"https://i.ibb.co/TWL5p0q/be8bfd04a3d7.jpg",
-        "prompt":"(((illustration of '{PROMPT}, {PROMPT}, {PROMPT}'))), ((smooth abstract fluid, realistic colors)), 4D abstract fluid artwork rendered in unreal engine 5, 4K, super highly detailed ribbons of color floating and contorting, in the frame, amazing composition, non newtonian fluid dynamics, dynamic shape of subject, 8k render, Octane render, explosive colors, Sharp details, 3D -s 250 -v 5"
+        "prompt":"(((illustration of '({PROMPT} face, {PROMPT} face, {PROMPT} face)'))), ((smooth abstract fluid, realistic colors)), 4D abstract fluid artwork rendered in unreal engine 5, 4K, super highly detailed ribbons of color floating and contorting, in the frame, amazing composition, non newtonian fluid dynamics, dynamic shape of subject, 8k render, Octane render, explosive colors, Sharp details, 3D -s 250 -v 5"
     },
     "Steampunk V3":{
         "id":2005,
