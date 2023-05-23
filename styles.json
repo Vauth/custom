@@ -40,5 +40,11 @@
         "style":101,
         "image":"https://i.ibb.co/x7B2fjq/c996d20788f5.jpg",
         "prompt":"(realistic epic), ((({PROMPT}))), red eyes, red nose, wet cheek, (bloodstains on face 1. 4), (dark shot: 1. 4), black hair, beautiful detailed eyes and ears, dramatic lighting, painting style, Gothic art, black eyes, by French painter Alexandre Cabanel, oil painting, (realistic details), (poor peasant clothes 1. 2), veil, neckline, (bare shoulders), gothic lighting, old gothic cathedral background, dim lighting, gloomy"
+    },
+    "Unrealistic V3":{
+        "id":2007,
+        "style":78,
+        "image":"https://i.ibb.co/4TWTpPW/9cb6c718c6c9.jpg",
+        "prompt":"(HyperUnrealistic, Unealistic, (Epic Unrealistic), (Unrealistic Engine 5), ((({PROMPT}))) ), (HyperUnrealistic Background), (Fullscreen), (Artstation), (Photo By the best unrealistic photographer), (Close Face Shot), (Deviantart), (Unrealistic Engine - h 7 6 8 -v 5)"
     }
 }
