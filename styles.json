@@ -46,5 +46,11 @@
         "style":78,
         "image":"https://i.ibb.co/4TWTpPW/9cb6c718c6c9.jpg",
         "prompt":"(HyperUnrealistic, Unealistic, (Epic Unrealistic), (Unrealistic Engine 5), ((({PROMPT}))) ), (HyperUnrealistic Background), (Fullscreen), (Artstation), (Photo By the best unrealistic photographer), (Close Face Shot), (Deviantart), (Unrealistic Engine - h 7 6 8 -v 5)"
+    },
+    "Van Gogh V3":{
+        "id":2008,
+        "style":103,
+        "image":"https://i.ibb.co/0Q4D9Lr/19c23dbb9617.jpg",
+        "prompt":"({PROMPT}), (By Van gogh and Wlop), Van gogh style, beautiful detailed, dramatic lighting, painting style, oil painting, van gogh painting, dim lighting, gloomy, (artstation), unity engine, (Deviantart), artstation cgsociety"
     }
 }
