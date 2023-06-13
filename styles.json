@@ -9,7 +9,7 @@
         "id":2001,
         "style":101,
         "image":"https://i.ibb.co/6srqDfQ/f53259b9324e.jpg",
-        "prompt":"{PROMPT}, (by alphonse mucha), mucha, artstation, pastel colors, splashart, artistic, looking at cam, (8k), (highly detailed), 4k, final fantasy, unity engine, unreal engine 5 ,(deviantart), artstation cgsociety, tiny cloth–s 250 –ar 2:1 –v 5"
+        "prompt":"Warmly lit close up studio portrait of {PROMPT} as fashion model, (Sport clothing), half body, highly face detailed, looking at cam, (by alphonse mucha), mucha, artstation, pastel colors, splashart, artistic, detailed body, 8k, (hyper realistic), 4k, body, final fantasy, tiny cloth–s 250 –ar 2:1 –v 5"
     },
     "Cinematic V3":{
         "id":2002,
