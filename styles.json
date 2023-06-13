@@ -3,7 +3,7 @@
         "id":2000,
         "style":101,
         "image":"https://i.ibb.co/sJSpPfv/fade1bc36acb.jpg",
-        "prompt":"{PROMPT} with Cyberpunk Mask and Glass as fashion model, half body, looking at cam, detailed, by alphonse mucha, mucha, artstation, pastel colors, splashart, artistic, detailed body, 8k, realistic, 4k, body, final fantasy, tiny cloth–s 250 –ar 2:1 –v 5"
+        "prompt":"Warmly lit close up studio portrait of {PROMPT} as cyberpunk fashion model, (cyberpunk sport clothing), (neon eyes), (robotic head), half body, highly face detailed, looking at cam, (by alphonse mucha), mucha, artstation, pastel colors, splashart, artistic, detailed body, 8k, (hyper realistic), 4k, body, final fantasy, tiny cloth–s 250 –ar 2:1 –v 5"
     },
     "Character V3":{
         "id":2001,
