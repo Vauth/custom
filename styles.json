@@ -64,5 +64,11 @@
         "style":101,
         "image":"https://i.ibb.co/Yhsh17B/5a862b687ee8.jpg",
         "prompt":"alberto seveso art, (({PROMPT})) paladin in space nebula, water ink, cosmic space background, loose painting style, intricate detail, cinematic lighting, 8k, volumetric lighting, concept art, by artgerm and greg rutkowski, an intricate, elegant, highly detailed"
+    },
+    "Neonic V3":{
+        "id":2011,
+        "style":107,
+        "image":"https://i.ibb.co/QXW6C8m/ff0c543d4d22.jpg",
+        "prompt":"Warmly lit close up studio picture of {PROMPT}, neon, delicate features, cyberpunk armor, neon, hyper detail, tech. intricate jewelry, gemstones, gold. synthwave aesthetic. lighting. crystal. Ultra realistic. plasma. neon glow. Fine details. Volumetric light. octane render. 8k. --q 2 --ar 9:16"
     }
 }
