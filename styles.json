@@ -1,43 +1,43 @@
 {
     "Futurepunk V3":{
         "id":2000,
-        "style":101,
+        "style":84,
         "image":"https://i.ibb.co/sJSpPfv/fade1bc36acb.jpg",
         "prompt":"Warmly lit close up studio portrait of {PROMPT} as cyberpunk fashion model, (Cyberpunk brand new clothing), (neon eyes), (robotic head), half body, highly face detailed, looking at cam, (by alphonse mucha), mucha, artstation, pastel colors, splashart, artistic, detailed body, 8k, (hyper realistic), 4k, body, final fantasy, tiny cloth–s 250 –ar 2:1 –v 5"
     },
     "Character V3":{
         "id":2001,
-        "style":101,
+        "style":84,
         "image":"https://i.ibb.co/6srqDfQ/f53259b9324e.jpg",
         "prompt":"Warmly lit close up studio portrait of {PROMPT} as fashion model, (Sport clothing), half body, highly face detailed, looking at cam, (by alphonse mucha), mucha, artstation, pastel colors, splashart, artistic, detailed body, 8k, (hyper realistic), 4k, body, final fantasy, tiny cloth–s 250 –ar 2:1 –v 5"
     },
     "Cinematic V3":{
         "id":2002,
-        "style":101,
+        "style":84,
         "image":"https://i.ibb.co/HKrYTnZ/27b6e6ecb4c4.jpg",
         "prompt":"{PROMPT}, photorealistic, highly detailed, digital illustration, trending in artstation, classical painting, smooth, sharp focus artstation concept art, illustration, cinematic lighting, art by artgerm and greg rutkowski and alphonse mucha"
     },
     "Night V3":{
         "id":2003,
-        "style":101,
+        "style":84,
         "image":"https://i.ibb.co/S3jjpGS/24b73022f55c.jpg",
         "prompt":"{PROMPT}, the last attempt, short night moment, everything breaks into small pieces, end of all things, bokeh, timeless eternity, complementary colors, Depicted in an Eerie oppressive feeling by Greg Rutkowski, James Earley, Mark Metcalfe, Darek Zabrocki, Gilles Beloeil, Neil Blevins, Anne Stokes, surrealist style, fine art, fine brush strokes, detail oriented, over detail, scary, oppressive, a masterpiece, old work of art, oil on canvas, perfect composition, Art of Illusion 3D shading, hyperdetailed, ZBrush, cel-shaded, golden ratio"
     },
     "Abstract Fluid V3":{
         "id":2004,
-        "style":101,
+        "style":84,
         "image":"https://i.ibb.co/TWL5p0q/be8bfd04a3d7.jpg",
         "prompt":"(((4D abstract fluid artwork illustration of ({PROMPT}) rendered in unreal engine 5))), ((smooth abstract fluid, realistic colors)), 4D abstract fluid artwork rendered in unreal engine 5, 4K, super highly detailed ribbons of color floating and contorting, in the frame, amazing composition, non newtonian fluid dynamics, dynamic shape of subject, 8k render, Octane render, explosive colors, Sharp details, 3D -s 250 -v 5"
     },
     "Steampunk V3":{
         "id":2005,
-        "style":101,
+        "style":84,
         "image":"https://i.ibb.co/ngYHRpc/9ba8e61e6aab.jpg",
         "prompt":"hyperrealistic neo - rococo steampunk {PROMPT}. highly detailed digital art masterpiece, smooth cam de leon eric zener dramatic pearlescent soft light, backgroud black, ground angle hd 8 k, sharp focus"
     },
     "Gothic V3":{
         "id":2006,
-        "style":101,
+        "style":84,
         "image":"https://i.ibb.co/x7B2fjq/c996d20788f5.jpg",
         "prompt":"(realistic epic), ((({PROMPT}))), red eyes, red nose, wet cheek, (bloodstains on face 1. 4), (dark shot: 1. 4), black hair, beautiful detailed eyes and ears, dramatic lighting, painting style, Gothic art, black eyes, by French painter Alexandre Cabanel, oil painting, (realistic details), (poor peasant clothes 1. 2), veil, neckline, (bare shoulders), gothic lighting, old gothic cathedral background, dim lighting, gloomy"
     },
@@ -61,7 +61,7 @@
     },
     "Space Vibrant V3":{
         "id":2010,
-        "style":101,
+        "style":84,
         "image":"https://i.ibb.co/Yhsh17B/5a862b687ee8.jpg",
         "prompt":"alberto seveso art, (({PROMPT})) paladin in space nebula, water ink, cosmic space background, loose painting style, intricate detail, cinematic lighting, 8k, volumetric lighting, concept art, by artgerm and greg rutkowski, an intricate, elegant, highly detailed"
     },
