@@ -1,19 +1,19 @@
 {
     "Futurepunk V3":{
         "id":2000,
-        "style":84,
+        "style":115,
         "image":"https://i.ibb.co/sJSpPfv/fade1bc36acb.jpg",
         "prompt":"Warmly lit close up studio portrait of {PROMPT} as cyberpunk fashion model, (Cyberpunk brand new clothing), (neon eyes), (robotic head), half body, highly face detailed, looking at cam, (by alphonse mucha), mucha, artstation, pastel colors, splashart, artistic, detailed body, 8k, (hyper realistic), 4k, body, final fantasy, tiny cloth–s 250 –ar 2:1 –v 5"
     },
     "Character V3":{
         "id":2001,
-        "style":84,
+        "style":115,
         "image":"https://i.ibb.co/6srqDfQ/f53259b9324e.jpg",
         "prompt":"Warmly lit close up studio portrait of {PROMPT} as fashion model, (Sport clothing), half body, highly face detailed, looking at cam, (by alphonse mucha), mucha, artstation, pastel colors, splashart, artistic, detailed body, 8k, (hyper realistic), 4k, body, final fantasy, tiny cloth–s 250 –ar 2:1 –v 5"
     },
     "Cinematic V3":{
         "id":2002,
-        "style":84,
+        "style":115,
         "image":"https://i.ibb.co/HKrYTnZ/27b6e6ecb4c4.jpg",
         "prompt":"{PROMPT}, photorealistic, highly detailed, digital illustration, trending in artstation, classical painting, smooth, sharp focus artstation concept art, illustration, cinematic lighting, art by artgerm and greg rutkowski and alphonse mucha"
     },
@@ -31,13 +31,13 @@
     },
     "Steampunk V3":{
         "id":2005,
-        "style":84,
+        "style":115,
         "image":"https://i.ibb.co/ngYHRpc/9ba8e61e6aab.jpg",
         "prompt":"hyperrealistic neo - rococo steampunk {PROMPT}. highly detailed digital art masterpiece, smooth cam de leon eric zener dramatic pearlescent soft light, backgroud black, ground angle hd 8 k, sharp focus"
     },
     "Gothic V3":{
         "id":2006,
-        "style":84,
+        "style":115,
         "image":"https://i.ibb.co/x7B2fjq/c996d20788f5.jpg",
         "prompt":"(realistic epic), ((({PROMPT}))), red eyes, red nose, wet cheek, (bloodstains on face 1. 4), (dark shot: 1. 4), black hair, beautiful detailed eyes and ears, dramatic lighting, painting style, Gothic art, black eyes, by French painter Alexandre Cabanel, oil painting, (realistic details), (poor peasant clothes 1. 2), veil, neckline, (bare shoulders), gothic lighting, old gothic cathedral background, dim lighting, gloomy"
     },
