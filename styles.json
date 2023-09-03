@@ -1,74 +1,80 @@
 {
-    "Futurepunk V3":{
+    "Futurepunk V4":{
         "id":2000,
         "style":115,
         "image":"https://i.ibb.co/sJSpPfv/fade1bc36acb.jpg",
         "prompt":"Warmly lit close up studio portrait of {PROMPT} as cyberpunk fashion model, (Cyberpunk brand new clothing), (neon eyes), (robotic head), half body, highly face detailed, looking at cam, (by alphonse mucha), mucha, artstation, pastel colors, splashart, artistic, detailed body, 8k, (hyper realistic), 4k, body, final fantasy, tiny cloth–s 250 –ar 2:1 –v 5"
     },
-    "Character V3":{
+    "Character V4":{
         "id":2001,
         "style":115,
         "image":"https://i.ibb.co/6srqDfQ/f53259b9324e.jpg",
         "prompt":"Warmly lit close up studio portrait of {PROMPT} as fashion model, (Sport clothing), half body, highly face detailed, looking at cam, (by alphonse mucha), mucha, artstation, pastel colors, splashart, artistic, detailed body, 8k, (hyper realistic), 4k, body, final fantasy, tiny cloth–s 250 –ar 2:1 –v 5"
     },
-    "Cinematic V3":{
+    "Cinematic V4":{
         "id":2002,
         "style":115,
         "image":"https://i.ibb.co/HKrYTnZ/27b6e6ecb4c4.jpg",
         "prompt":"{PROMPT}, photorealistic, highly detailed, digital illustration, trending in artstation, classical painting, smooth, sharp focus artstation concept art, illustration, cinematic lighting, art by artgerm and greg rutkowski and alphonse mucha"
     },
-    "Night V3":{
+    "Night V4":{
         "id":2003,
         "style":84,
         "image":"https://i.ibb.co/S3jjpGS/24b73022f55c.jpg",
         "prompt":"{PROMPT}, the last attempt, short night moment, everything breaks into small pieces, end of all things, bokeh, timeless eternity, complementary colors, Depicted in an Eerie oppressive feeling by Greg Rutkowski, James Earley, Mark Metcalfe, Darek Zabrocki, Gilles Beloeil, Neil Blevins, Anne Stokes, surrealist style, fine art, fine brush strokes, detail oriented, over detail, scary, oppressive, a masterpiece, old work of art, oil on canvas, perfect composition, Art of Illusion 3D shading, hyperdetailed, ZBrush, cel-shaded, golden ratio"
     },
-    "Abstract Fluid V3":{
+    "Abstract Fluid V4":{
         "id":2004,
         "style":115,
         "image":"https://i.ibb.co/TWL5p0q/be8bfd04a3d7.jpg",
         "prompt":"(((4D abstract fluid artwork illustration of ({PROMPT}) rendered in unreal engine 5))), ((smooth abstract fluid, realistic colors)), 4D abstract fluid artwork rendered in unreal engine 5, 4K, super highly detailed ribbons of color floating and contorting, in the frame, amazing composition, non newtonian fluid dynamics, dynamic shape of subject, 8k render, Octane render, explosive colors, Sharp details, 3D -s 250 -v 5"
     },
-    "Steampunk V3":{
+    "Steampunk V4":{
         "id":2005,
         "style":115,
         "image":"https://i.ibb.co/ngYHRpc/9ba8e61e6aab.jpg",
         "prompt":"hyperrealistic neo - rococo steampunk {PROMPT}. highly detailed digital art masterpiece, smooth cam de leon eric zener dramatic pearlescent soft light, backgroud black, ground angle hd 8 k, sharp focus"
     },
-    "Gothic V3":{
+    "Horror V4":{
         "id":2006,
         "style":115,
         "image":"https://i.ibb.co/x7B2fjq/c996d20788f5.jpg",
         "prompt":"(realistic epic), ((({PROMPT}))), red eyes, red nose, wet cheek, (bloodstains on face 1. 4), (dark shot: 1. 4), black hair, beautiful detailed eyes and ears, dramatic lighting, painting style, Gothic art, black eyes, by French painter Alexandre Cabanel, oil painting, (realistic details), (poor peasant clothes 1. 2), veil, neckline, (bare shoulders), gothic lighting, old gothic cathedral background, dim lighting, gloomy"
     },
-    "Unrealistic V3":{
+    "Unrealistic V4":{
         "id":2007,
         "style":78,
         "image":"https://i.ibb.co/4TWTpPW/9cb6c718c6c9.jpg",
         "prompt":"(HyperUnrealistic, Unealistic, (Epic Unrealistic), (Unrealistic Engine 5), ((({PROMPT}))) ), (HyperUnrealistic Background), (Fullscreen), (Artstation), (Photo By the best unrealistic photographer), (Close Face Shot), (Deviantart), (Unrealistic Engine - h 7 6 8 -v 5)"
     },
-    "Van Gogh V3":{
+    "Van Gogh V4":{
         "id":2008,
         "style":103,
         "image":"https://i.ibb.co/0Q4D9Lr/19c23dbb9617.jpg",
         "prompt":"({PROMPT}), (By Van gogh and Wlop), Van gogh style, beautiful detailed, dramatic lighting, painting style, (oil painting), van gogh painting, dim lighting, gloomy, (artstation), (Deviantart), artstation cgsociety"
     },
-    "Exprealism V3":{
+    "Exprealism V4":{
         "id":2009,
         "style":78,
         "image":"https://i.ibb.co/Y0tdbJv/a1a3bf6e31fb.jpg",
         "prompt":"Warmly lit close up studio portrait of {PROMPT}, (impasto oil painting thick brushstrokes by Lucian Freud and Cy Twombly and Tim Hawkinson), (artstation), (Deviantart), dramatic lighting, (Expressionism style), artistic"
     },
-    "Space Vibrant V3":{
+    "Space Vibrant V4":{
         "id":2010,
         "style":84,
         "image":"https://i.ibb.co/Yhsh17B/5a862b687ee8.jpg",
         "prompt":"alberto seveso art, (({PROMPT})) paladin in space nebula, water ink, cosmic space background, loose painting style, intricate detail, cinematic lighting, 8k, volumetric lighting, concept art, by artgerm and greg rutkowski, an intricate, elegant, highly detailed"
     },
-    "Neonic V3":{
+    "Neonic V4":{
         "id":2011,
         "style":115,
         "image":"https://i.ibb.co/QXW6C8m/ff0c543d4d22.jpg",
         "prompt":"((Warmly lit close up studio picture of {PROMPT})), delicate features, cyberpunk armor, neon, hyper detail, tech. gold. synthwave aesthetic. lighting. crystal. Ultra realistic. plasma. neon glow. Fine details. Volumetric light. octane render. 8k. --q 2 --ar 9:16"
+    },
+    "Goth V4":{
+        "id":2012,
+        "style":115,
+        "image":"https://i.ibb.co/nQ372gc/bixfy.jpg",
+        "prompt":"a close up of {PROMPT} with long black hair wearing a red hat, she has black hair with bangs, goth girl aesthetic, pale goth beauty, wearing a chocker and cute hat, long dark hair with bangs, black hair and white bangs, with full bangs, hair blackbangs hair",
     }
 }
