@@ -53,11 +53,11 @@
         "image":"https://i.ibb.co/Y0tdbJv/a1a3bf6e31fb.jpg",
         "prompt":"Warmly lit close up studio portrait of {PROMPT}, (impasto oil painting thick brushstrokes by Lucian Freud and Cy Twombly and Tim Hawkinson), (artstation), (Deviantart), dramatic lighting, (Expressionism style), artistic"
     },
-    "Space Vibrant V4":{
+    "Zdzislaw V4":{
         "id":2010,
-        "style":84,
-        "image":"https://i.ibb.co/Yhsh17B/5a862b687ee8.jpg",
-        "prompt":"alberto seveso art, (({PROMPT})) paladin in space nebula, water ink, cosmic space background, loose painting style, intricate detail, cinematic lighting, 8k, volumetric lighting, concept art, by artgerm and greg rutkowski, an intricate, elegant, highly detailed"
+        "style":115,
+        "image":"https://i.ibb.co/dQTSzqt/df0c543d4d69.jpg",
+        "prompt":"{PROMPT} ,dark art, horror ,((by Zdzisław Beksiński)), (surreal style)"
     },
     "Neonic V4":{
         "id":2011,
