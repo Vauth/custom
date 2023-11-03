@@ -17,12 +17,6 @@
         "image":"https://i.ibb.co/HKrYTnZ/27b6e6ecb4c4.jpg",
         "prompt":"{PROMPT}, photorealistic, highly detailed, digital illustration, trending in artstation, classical painting, smooth, sharp focus artstation concept art, illustration, cinematic lighting, art by artgerm and greg rutkowski and alphonse mucha"
     },
-    "Night V4":{
-        "id":2003,
-        "style":84,
-        "image":"https://i.ibb.co/S3jjpGS/24b73022f55c.jpg",
-        "prompt":"{PROMPT}, the last attempt, short night moment, everything breaks into small pieces, end of all things, bokeh, timeless eternity, complementary colors, Depicted in an Eerie oppressive feeling by Greg Rutkowski, James Earley, Mark Metcalfe, Darek Zabrocki, Gilles Beloeil, Neil Blevins, Anne Stokes, surrealist style, fine art, fine brush strokes, detail oriented, over detail, scary, oppressive, a masterpiece, old work of art, oil on canvas, perfect composition, Art of Illusion 3D shading, hyperdetailed, ZBrush, cel-shaded, golden ratio"
-    },
     "Abstract Fluid V4":{
         "id":2004,
         "style":115,
