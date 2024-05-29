@@ -58,5 +58,11 @@
         "style":115,
         "image":"https://i.ibb.co/9YpHdRW/13ec639454a9.jpg",
         "prompt":"3d rendering, Tsutomu Nihei, complex system, equipment with hyper detail, ({PROMPT}), sci-fi, dystoia, super complex and giant structures backdrop, gloomy futuristic environment, fog, dramatic lighting, Unreal engine 5, RTX shader, detail texture, cyber screen, rustic, realism ambience --ar 9:16 --style raw --stylize 700"
+    },
+    "Stick Logo V4":{
+        "id":2013,
+        "style":115,
+        "image":"https://i.ibb.co/64cnNDL/256455a6b961.jpg",
+        "prompt":"A simple minimalistic logo, stick figures, (clean lines), (high contrast), (black background), black outlines, png logo format. ({PROMPT})"
     }
 }
